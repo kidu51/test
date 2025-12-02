@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "active": "demo-party",
+  "events": {
+    "demo-party": {
+      "id": "demo-party",
+      "title": "Demo Corporate Party",
+      "subtitle": "Sample data you can replace",
+      "date": "2024-12-22",
+      "nominations": [
+        "Самый громкий смех",
+        "Лучший тимлид",
+        "Главный оптимист"
+      ],
+      "people": [
+        "Анна Петрова",
+        "Борис Иванов",
+        "Владимир Смирнов",
+        "Галина Орлова",
+        "Дмитрий Соколов"
+      ],
+      "votes": [],
+      "created_at": "2024-12-01T10:00:00+00:00"
+    }
+  }
+}
